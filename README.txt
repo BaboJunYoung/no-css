@@ -1,0 +1,1 @@
+Just an html file. No CSS, no Javascript.
